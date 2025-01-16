@@ -35,7 +35,10 @@ The dataset used is **Mall Customer Segmentation Data** from [Kaggle](https://ww
 
 ## Results
 - **K-Means** and **Agglomerative Clustering** produced well-defined clusters (Silhouette Score: 0.45).
+  ![image](https://github.com/user-attachments/assets/c1ac706c-d059-4ff0-a030-d17af6a6372a)
+  ![image](https://github.com/user-attachments/assets/aa9884fb-2591-4b0b-b67d-581edb5e7cba)
 - **DBSCAN** was less effective for this dataset (Silhouette Score: 0.20).
+  ![image](https://github.com/user-attachments/assets/bc6fd2ed-4d7f-423f-8938-597128692bec)
 - Scatter plot visualizations show the distribution and patterns of clusters.
 
 ## Contribution
